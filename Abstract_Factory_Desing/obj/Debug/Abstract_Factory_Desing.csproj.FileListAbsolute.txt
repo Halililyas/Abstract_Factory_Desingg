@@ -1,0 +1,8 @@
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\bin\Debug\Abstract_Factory_Desing.exe.config
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\bin\Debug\Abstract_Factory_Desing.exe
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\bin\Debug\Abstract_Factory_Desing.pdb
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\obj\Debug\Abstract_Factory_Desing.csproj.AssemblyReference.cache
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\obj\Debug\Abstract_Factory_Desing.csproj.SuggestedBindingRedirects.cache
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\obj\Debug\Abstract_Factory_Desing.csproj.CoreCompileInputs.cache
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\obj\Debug\Abstract_Factory_Desing.exe
+C:\Users\hızır\Desktop\Abstract_Factory_Desing\Abstract_Factory_Desing\obj\Debug\Abstract_Factory_Desing.pdb
